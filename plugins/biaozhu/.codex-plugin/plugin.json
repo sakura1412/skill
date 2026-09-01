@@ -1,0 +1,18 @@
+{
+  "name": "biaozhu",
+  "version": "1.0.0",
+  "description": "在软件项目的页面控件旁添加可编辑编号气泡，并在右侧集中展示详细说明。",
+  "author": {
+    "name": "sakura1412"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "标注",
+    "shortDescription": "为所有页面控件添加可编辑编号气泡和右侧详情栏。",
+    "longDescription": "结合当前对话需求和页面实现，逐页面识别按钮、输入框、选择器、标签页及其他交互控件，添加稳定编号气泡、可编辑详情和标签页隔离。",
+    "developerName": "sakura1412",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "使用 $biaozhu 根据当前对话和页面实现，为所有页面控件添加可编辑编号气泡与右侧详情栏。"
+  }
+}

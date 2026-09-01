@@ -1,0 +1,6 @@
+interface:
+  display_name: "标注"
+  short_description: "在每个项目页面控件旁添加可编辑编号气泡与右侧交互详情栏"
+  default_prompt: "使用 $biaozhu 根据本任务历史和页面实现，为所有页面控件添加可编辑编号气泡与右侧详情栏，并确保标签可正常切换且只显示当前标签的标注。"
+policy:
+  allow_implicit_invocation: true
